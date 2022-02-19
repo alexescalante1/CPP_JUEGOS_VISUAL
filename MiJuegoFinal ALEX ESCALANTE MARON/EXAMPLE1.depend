@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1592696342 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\consola\example1\main.cpp
+	<iostream>
+	<winbgim.h>
+
+1592696342 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winbg\example1\main.cpp
+	<iostream>
+	<winbgim.h>
+
+1594078092 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winbg\example2\main.cpp
+	<iostream>
+	<winbgim.h>
+
+1602106840 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winbg\example3\main.cpp
+	<conio.h>
+	<iostream>
+	<winbgim.h>
+	<math.h>
+	<time.h>
+
+1602344696 source:c:\users\alexescalanteone\desktop\juego laverinto - prfe\main.cpp
+	<conio.h>
+	<iostream>
+	<winbgim.h>
+	<math.h>
+	<time.h>
+
+1602468331 source:c:\users\alexescalanteone\desktop\creacion de materiales\main.cpp
+	<conio.h>
+	<iostream>
+	<winbgim.h>
+	<math.h>
+	<time.h>
+
+1602469920 source:c:\users\alexescalanteone\desktop\mijuegofinal\main.cpp
+	<conio.h>
+	<iostream>
+	<winbgim.h>
+	<math.h>
+	<time.h>
+
+1602471204 source:e:\avance semestres\semestre 8º\programacion de videojuegos\unidad 2\sesion 9\mijuegofinal alex escalante maron\main.cpp
+	<conio.h>
+	<iostream>
+	<winbgim.h>
+	<math.h>
+	<time.h>
+

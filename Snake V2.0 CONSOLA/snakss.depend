@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1480985054 source:c:\users\alex escalante\desktop\proyectos c++\snakss\main.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1482259044 source:g:\escalante\haciendo snake\proyectos c++\snakss\main.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+
